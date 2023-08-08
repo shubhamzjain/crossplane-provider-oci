@@ -1,4 +1,4 @@
-# Crossplane Provider for Oracle Cloud Infrastructure - test
+# Crossplane Provider for Oracle Cloud Infrastructure - test2
 
 `crossplane-provider-oci` is a [Crossplane](https://crossplane.io/) provider for [Oracle Cloud Infrastructure](https://www.oracle.com/cloud/) (OCI) that is built using [Upjet](https://github.com/upbound/upjet) code generation tools.
 
